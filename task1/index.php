@@ -9,7 +9,7 @@ if (isset($_GET['slack_name']) && isset($_GET['track'])) {
         "current_day"=> $current_day,
         "utc_time"=> $currentTimeUTC,
         "track"=> $track,
-        "github_file_url"=> "https://github.com/kunmifab/hngxtask1/index.php",
+        "github_file_url"=> "https://github.com/kunmifab/hngxtask1/blob/main/task1/index.php",
         "github_repo_url"=> "https://github.com/kunmifab/hngxtask1",
         "status_code"=> 200
     );
